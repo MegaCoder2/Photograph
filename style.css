@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: crimson;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+}
+
+.Images {
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+}
